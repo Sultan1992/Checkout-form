@@ -48,7 +48,7 @@ echo <<<EOT
         </main>
         <footer>
             <div class="content-wrapper">
-                <p>&copy; $year, Shopping Cart System</p>
+                <p>&copy; $year, Sultan Feto</p>
             </div>
         </footer>
         <script src="script.js"></script>
