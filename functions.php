@@ -12,7 +12,7 @@ function pdo_connect_mysql() {
     	die ('Failed to connect to database!');
     }
 }
-// Template header, feel free to customize this
+// Template of the header
 function template_header($title) {
 echo <<<EOT
 <!DOCTYPE html>
